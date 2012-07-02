@@ -11,7 +11,6 @@
 @interface NewViewController : UIViewController <UIActionSheetDelegate,UIImagePickerControllerDelegate,UINavigationControllerDelegate,UITextFieldDelegate>
 
 - (IBAction)selectPhoto:(id)sender;
-@property (weak, nonatomic) IBOutlet UIButton *btn_select;
 @property (weak, nonatomic) IBOutlet UITextField *memoField;
 @property (weak, nonatomic) IBOutlet UIImageView *image_view;
 @end

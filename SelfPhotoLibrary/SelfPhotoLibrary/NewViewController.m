@@ -19,7 +19,6 @@
     @private
     NSData *imageData;
 }
-@synthesize btn_select;
 @synthesize memoField;
 @synthesize image_view;
 
@@ -48,7 +47,6 @@
 
 - (void)viewDidUnload
 {
-    [self setBtn_select:nil];
     [self setMemoField:nil];
     [self setImage_view:nil];
     [super viewDidUnload];
