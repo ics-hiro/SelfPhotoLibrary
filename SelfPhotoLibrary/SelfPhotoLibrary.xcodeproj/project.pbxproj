@@ -39,6 +39,7 @@
 		DBA2C9F9158884870015E5ED /* PhotoViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = PhotoViewController.h; sourceTree = "<group>"; };
 		DBA2C9FA158884870015E5ED /* PhotoViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = PhotoViewController.m; sourceTree = "<group>"; };
 		DBA2C9FB158884870015E5ED /* PhotoViewController.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; path = PhotoViewController.xib; sourceTree = "<group>"; };
+		DBC5687015A329E100FAA3BD /* README.txt */ = {isa = PBXFileReference; lastKnownFileType = text; path = README.txt; sourceTree = "<group>"; };
 		DBEC167E15884FF200685713 /* SelfPhotoLibrary.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = SelfPhotoLibrary.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		DBEC168215884FF200685713 /* UIKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = UIKit.framework; path = System/Library/Frameworks/UIKit.framework; sourceTree = SDKROOT; };
 		DBEC168415884FF200685713 /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = System/Library/Frameworks/Foundation.framework; sourceTree = SDKROOT; };
@@ -87,6 +88,7 @@
 		DBEC167315884FF200685713 = {
 			isa = PBXGroup;
 			children = (
+				DBC5687015A329E100FAA3BD /* README.txt */,
 				DBEC168815884FF200685713 /* SelfPhotoLibrary */,
 				DBEC168115884FF200685713 /* Frameworks */,
 				DBEC167F15884FF200685713 /* Products */,
